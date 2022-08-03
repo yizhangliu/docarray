@@ -116,6 +116,9 @@
 
 
 
+
+
+
 <a name=release-note-0-1-1></a>
 ## Release Note (`0.1.1`)
 
@@ -2816,4 +2819,61 @@
 ### 🍹 Other Improvements
 
  - [[```8d6d3d21```](https://github.com/jina-ai/docarray/commit/8d6d3d2145047d9d67cafff2f4bc8c3234a01a11)] __-__ __version__: the next version will be 0.14.1 (*Jina Dev Bot*)
+
+<a name=release-note-0-14-2></a>
+## Release Note (`0.14.2`)
+
+> Release time: 2022-08-02 11:02:28
+
+
+
+🙇 We'd like to thank all contributors for this new release! In particular,
+ Joan Fontanals,  Jina Dev Bot,  🙇
+
+
+### 🐞 Bug fixes
+
+ - [[```be3bf214```](https://github.com/jina-ai/docarray/commit/be3bf214c0908437ef490a93f2f5859f8b3c59cb)] __-__ fix getitem by ellipsis (#467) (*Joan Fontanals*)
+
+### 🍹 Other Improvements
+
+ - [[```dadce129```](https://github.com/jina-ai/docarray/commit/dadce12907808f216148bc46d44609f290d54539)] __-__ __version__: the next version will be 0.14.2 (*Jina Dev Bot*)
+
+<a name=release-note-0-14-3></a>
+## Release Note (`0.14.3`)
+
+> Release time: 2022-08-02 11:24:02
+
+
+
+🙇 We'd like to thank all contributors for this new release! In particular,
+ Alvin Prayuda,  Jina Dev Bot,  🙇
+
+
+### 🐞 Bug fixes
+
+ - [[```951004ee```](https://github.com/jina-ai/docarray/commit/951004ee976cdd0e0a3a624520c818d2576017a7)] __-__ __elastic__: handle bulk operation error info for another op type (#465) (*Alvin Prayuda*)
+
+### 🍹 Other Improvements
+
+ - [[```889b2ad8```](https://github.com/jina-ai/docarray/commit/889b2ad88ddfb3a1ccaa4ebd95d4fc2f3e2b7b7a)] __-__ __version__: the next version will be 0.14.3 (*Jina Dev Bot*)
+
+<a name=release-note-0-14-4></a>
+## Release Note (`0.14.4`)
+
+> Release time: 2022-08-02 15:34:45
+
+
+
+🙇 We'd like to thank all contributors for this new release! In particular,
+ Joan Fontanals,  Jina Dev Bot,  🙇
+
+
+### 🐞 Bug fixes
+
+ - [[```30486b2a```](https://github.com/jina-ai/docarray/commit/30486b2a6eb9f7517a8e93018883c6257853ea80)] __-__ fix plot bug recompute size (#468) (*Joan Fontanals*)
+
+### 🍹 Other Improvements
+
+ - [[```f5887584```](https://github.com/jina-ai/docarray/commit/f5887584f921db2789822590bc9b70b013970477)] __-__ __version__: the next version will be 0.14.4 (*Jina Dev Bot*)
 
