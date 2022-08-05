@@ -120,6 +120,8 @@
 
 
 
+
+
 <a name=release-note-0-1-1></a>
 ## Release Note (`0.1.1`)
 
@@ -2896,4 +2898,42 @@
 ### 🍹 Other Improvements
 
  - [[```07123faf```](https://github.com/jina-ai/docarray/commit/07123faf9f5d8c1a86bb1a8c55d7d3cc37456d2c)] __-__ __version__: the next version will be 0.14.5 (*Jina Dev Bot*)
+
+<a name=release-note-0-14-6></a>
+## Release Note (`0.14.6`)
+
+> Release time: 2022-08-03 18:25:38
+
+
+
+🙇 We'd like to thank all contributors for this new release! In particular,
+ Han Xiao,  Jina Dev Bot,  🙇
+
+
+### 🐞 Bug fixes
+
+ - [[```933ddf02```](https://github.com/jina-ai/docarray/commit/933ddf020ba51c7046f22a33d31d0d20d802ef9d)] __-__ __plot__: convert uint8 before plotting (#472) (*Han Xiao*)
+
+### 🍹 Other Improvements
+
+ - [[```04c50a75```](https://github.com/jina-ai/docarray/commit/04c50a758c1e13ade9df902d7e7ddbdd89ce8e38)] __-__ __version__: the next version will be 0.14.6 (*Jina Dev Bot*)
+
+<a name=release-note-0-14-7></a>
+## Release Note (`0.14.7`)
+
+> Release time: 2022-08-04 12:53:30
+
+
+
+🙇 We'd like to thank all contributors for this new release! In particular,
+ Johannes Messner,  Jina Dev Bot,  🙇
+
+
+### 🐞 Bug fixes
+
+ - [[```6b4f6fc0```](https://github.com/jina-ai/docarray/commit/6b4f6fc0bc620fe6e2ab13e5e2caa67783de36fa)] __-__ keep offset2id updated when deleting in sqlite (#471) (*Johannes Messner*)
+
+### 🍹 Other Improvements
+
+ - [[```505d7767```](https://github.com/jina-ai/docarray/commit/505d7767eec23e47aba25d0908285f94c413b4d9)] __-__ __version__: the next version will be 0.14.7 (*Jina Dev Bot*)
 
