@@ -124,6 +124,9 @@
 
 
 
+
+
+
 <a name=release-note-0-1-1></a>
 ## Release Note (`0.1.1`)
 
@@ -2976,4 +2979,68 @@
 ### 🍹 Other Improvements
 
  - [[```23ce6518```](https://github.com/jina-ai/docarray/commit/23ce6518f77bc60a303ccc2a33f8ddc67d358926)] __-__ __version__: the next version will be 0.14.9 (*Jina Dev Bot*)
+
+<a name=release-note-0-14-10></a>
+## Release Note (`0.14.10`)
+
+> Release time: 2022-08-11 15:25:02
+
+
+
+🙇 We'd like to thank all contributors for this new release! In particular,
+ Nan Wang,  Alvin Prayuda,  Han Xiao,  Johannes Messner,  Jina Dev Bot,  🙇
+
+
+### 🆕 New Features
+
+ - [[```8f66a15e```](https://github.com/jina-ai/docarray/commit/8f66a15e2995531fbfa0f12a5061ab15bbf215a7)] __-__ __elastic__: add bulk get operation (#478) (*Alvin Prayuda*)
+ - [[```413af099```](https://github.com/jina-ai/docarray/commit/413af0990ff09956d062597b66f4f8a8f80b1e24)] __-__ __elastic__: add find kwargs for perf tuning (#481) (*Alvin Prayuda*)
+ - [[```ec7dcce1```](https://github.com/jina-ai/docarray/commit/ec7dcce1d2c5bdec6b63aa730a1883eff7049c61)] __-__ subindex for all document stores (#456) (*Johannes Messner*)
+
+### 🐞 Bug fixes
+
+ - [[```71274d2d```](https://github.com/jina-ai/docarray/commit/71274d2d358fe00e42559df8278ad80e6fbbe7ff)] __-__ retrieve MAX_ES_RETURNED_DOCS docs in bulk operations (#484) (*Nan Wang*)
+
+### 🧼 Code Refactoring
+
+ - [[```a43b498d```](https://github.com/jina-ai/docarray/commit/a43b498d3da38bea3f4b09374f876a496157fc32)] __-__ use hubble sdk for push pull (#482) (*Han Xiao*)
+
+### 🍹 Other Improvements
+
+ - [[```fc39c042```](https://github.com/jina-ai/docarray/commit/fc39c042f16e3096329c9ac8a955b955c876a2d9)] __-__ __version__: the next version will be 0.14.10 (*Jina Dev Bot*)
+
+<a name=release-note-0-14-11></a>
+## Release Note (`0.14.11`)
+
+> Release time: 2022-08-11 20:09:20
+
+
+
+🙇 We'd like to thank all contributors for this new release! In particular,
+ Han Xiao,  Jina Dev Bot,  🙇
+
+
+### 🧼 Code Refactoring
+
+ - [[```930c75cb```](https://github.com/jina-ai/docarray/commit/930c75cbb272078b31e097f3c4d78a2d8a6d5132)] __-__ use hubble sdk for get_token (#485) (*Han Xiao*)
+
+### 🍹 Other Improvements
+
+ - [[```f7b8eb89```](https://github.com/jina-ai/docarray/commit/f7b8eb89d2be2cb938f2b617a66d305f03fd90d8)] __-__ __version__: the next version will be 0.14.11 (*Jina Dev Bot*)
+
+<a name=release-note-0-15-0></a>
+## Release Note (`0.15.0`)
+
+> Release time: 2022-08-12 19:11:24
+
+
+
+🙇 We'd like to thank all contributors for this new release! In particular,
+ Nan Wang,  Jina Dev Bot,  🙇
+
+
+### 🍹 Other Improvements
+
+ - [[```fce2b883```](https://github.com/jina-ai/docarray/commit/fce2b8835cb95625494b3bd952c8157d14bbbc58)] __-__ bump version to 0.15.0 (#486) (*Nan Wang*)
+ - [[```8f7b3bed```](https://github.com/jina-ai/docarray/commit/8f7b3bed66c2f049e7a1990caa45be6fa7ad55ed)] __-__ __version__: the next version will be 0.14.12 (*Jina Dev Bot*)
 
